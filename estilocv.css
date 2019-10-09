@@ -1,0 +1,239 @@
+body {
+  background-color: rgb(255, 241, 193, 0.4);
+}
+
+a:link {
+  text-decoration: none;
+  color: #216583:
+}
+
+.todoencabezado {
+  padding-bottom: 20px;
+  text-align: center;
+  display: block;
+}
+
+.encabezado_datos {
+  margin-top: 50px;
+  text-align: center;
+  float: left;
+  width: 70%
+}
+
+.minombre {
+  font-size: 40px;
+  color: #f76262;
+  font-family: 'Sanchez', serif;
+}
+
+.produccionmusical {
+  color: #216583;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.fotodelanegra img {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.fotodelanegra {
+  padding: 40px;
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+.containerbody {
+  width: 60%;
+  font-family: 'Open Sans', sans-serif;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.side {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  width: 35%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.containerbody h3 span {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #f76262;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.cada_item {
+  line-height: 24px;
+  letter-spacing: 1px;
+  text-align: left;
+}
+
+.nombre_de_item {
+  font-size: 18px;
+  color: #293462;
+}
+
+.descripcion_de_item {
+  font-style: italic;
+  color: #216583;
+  font-size: 14px;
+  width: 80%;
+}
+
+.containerbody .bloque {
+  background-color: #fff;
+  margin-bottom: 80px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+._fecha {
+  letter-spacing: 2px;
+  font-size: 13px;
+  margin-bottom: 5px;
+  color: #f76262;
+  font-weight: bolder;
+  display: inline-block;
+  background-color: rgb(255, 241, 193, 0.1);
+}
+
+.actual {
+  letter-spacing: 1px;
+  font-stretch: semi-condensed;
+}
+
+.item_full {
+  margin-bottom: 20px;
+  padding: 20px;
+  padding-left: 40px;
+}
+
+.info img {
+  width: 30px;
+  margin: 5px
+}
+
+.idiomas img {
+  width: 20%;
+  float: left;
+  padding: 10px;
+  margin-right: 25px;
+}
+
+.item_icono {
+  width: 60%;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
+.side .bloque {
+  background-color: #fff;
+  margin-bottom: 80px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  width: 80%
+}
+
+.side h3 span {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #293462;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.datospersonales {
+  text-align: center;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.icono {
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+  text-align: center;
+  padding: 10px;
+}
+
+.propiedadicono {
+  text-align: center;
+  color: #216583;
+  font-size: 14px;
+}
+
+.datospersonales img {
+  width: 28px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(33, 101, 131, 0.1);
+}
+
+.bio .bloque {
+  letter-spacing: 1px;
+  line-height: 35px;
+  color: #f76262;
+  text-align: center;
+  font-style: italic;
+  background-color: #fff;
+  margin-bottom: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 80%
+}
+
+.soymenu {
+  margin-bottom: 150px;
+  text-align: center;
+
+}
+
+.soymenu li {
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: #f76262;
+  padding: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  list-style: none;
+  display: block;
+  float: left;
+}
+
+.soymenu a {
+  color: #ffffff;
+}
+
+li:hover {
+  background-color: rgba(247, 98, 98, 0.8);
+}
+
+.portfolio img {
+  width: 60%;
+  padding: 10px;
+}
+
+.p
